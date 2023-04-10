@@ -2,7 +2,7 @@
 
 <h2>Information Technology Projects</h2>
 <br>
--osTicket ( Help Desk Ticketing System)</b>
+-<b>osTicket ( Help Desk Ticketing System)</b>
   -[osTicket: Prerequisites and Installation](https://github.com/iebullock/osticket-prereqs)<br>
   -[osTicket: Post-Installation Configuration](https://github.com/iebullock/post-install-config)<br>
   -[osTicket: Ticket Lifecycle Examples](http;//github.com/iebullock/ticket-lifecycle)<br>
